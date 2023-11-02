@@ -1,2 +1,6 @@
-# Implementasi-APIE-OOP
-The Java code for the Object-Oriented Programming (OOP) mid-term laboratory exam
+# Implementasi APIE OOP
+UTS OOP USK
+
+Anggota :
+1. Agil Mughni
+2. Glenn Hakim
