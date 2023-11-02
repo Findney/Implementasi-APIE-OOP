@@ -1,6 +1,6 @@
 # Implementasi APIE OOP
-UTS OOP USK
+Mid-term OOP Lab USK
 
-Anggota :
+Member :
 1. Agil Mughni
 2. Glenn Hakim
