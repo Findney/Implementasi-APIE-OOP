@@ -1,4 +1,4 @@
-# Implementation of The OOP Consept
+# Implementation of The OOP Concept
 Mid-term OOP Lab USK
 
 Member :
