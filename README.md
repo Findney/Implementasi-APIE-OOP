@@ -1,4 +1,4 @@
-# Implementasi APIE OOP
+# Implementation of The OOP Consept
 Mid-term OOP Lab USK
 
 Member :
